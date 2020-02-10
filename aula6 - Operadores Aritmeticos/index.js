@@ -10,5 +10,6 @@ x= Atribuição de valores
 */
 
 let num1 = 5;
-let num2 = 10;
-console.log(num1 ** num2);
+let num2 = 10.3;
+console.log(num1 + num2);
+
